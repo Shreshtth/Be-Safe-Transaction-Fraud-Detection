@@ -41,8 +41,9 @@ This project focuses on creating a synthetic dataset based on transaction data a
 ---
 
 ### Citations:
-- $PAGE_2: For dataset generation and preprocessing details.
-- $PAGE_3: For model evaluation metrics and XGBoost information.
-- $PAGE_4: For Random Forest and DNN-Keras evaluation metrics.
+1. https://github.com/sharmasapna/credit-card-fraud-detection : Dataset created using Sparkov Data Generation tool created by Brandon Harris. Multiple models applied- autoencoders, DNN, TSNE, isolation forest,
+2. https://github.com/lmriccardo/fraudolent-transaction-classification : Project for the Big Data Computing course at the University of "La Sapienza" in master’s in computer science A.A. 2021/2022. Models used are Decision Trees, Random Forest, Logistic Regression, Gradient Boosted Tree, and Neural Network approach.
+3. https://www.kaggle.com/c/ieee-fraud-detection/data : Dataset used - Vesta's real-world e-commerce transactions and contains a wide range of features from device type to product features.
+4. https://ieeexplore.ieee.org/abstract/document/9178971 : AdaBoost is a machine learning method that uses boosting. It assumes that the data in training and testing sets have the same distribution and input feature space. It increases the weights of instances that are wrongly classified in the training process. AdaBoost is extended to transfer AdaBoost (TrAdaBoost) that can effectively transfer knowledge from one domain to another.
 
 ---
